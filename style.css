@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,600;0,700;0,900;1,300&display=swap');
+
+body {
+    font-family: 'lato', sans-serif;
+}
+
+.hero-bg {
+    background-image: url('./Assets/bg-desktop.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.h3 {
+    background-clip: text;
+    background-image: url('./Assets/texture.jpg');
+    -webkit-background-clip: text;
+    background-position: center;
+    background-size: cover;
+    color: transparent; 
+}
+
+.h1 {
+    background-clip: text;
+    background-image: url('./Assets/texture.jpg');
+    -webkit-background-clip: text;
+    background-position: center;
+    background-size: cover;
+    color: transparent;  
+}
+
+.program {
+    color: white;
+    background-color: #272a31;
+    background-image: url('./Assets/program-pattern.png');
+}
+
+.mp-underline {
+    border-bottom: 4px solid #f28f10;
+    padding-bottom: 8px;
+    width: 150px;
+}
