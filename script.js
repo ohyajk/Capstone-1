@@ -64,7 +64,7 @@ const speakers = {
 let speakerDiv = '';
 
 speakers.speakerData.forEach((speaker) => {
-  speakerDiv += `<div class="flex gap-2">
+  speakerDiv += `<div class="flex gap-2 speaker">
     <div class="w-[40%] relative img-before"><img class="p-4 h-[178px] w-[202px]" src=${speaker.img} alt=${speaker.name}></div>
     <div class="w-[60%] flex flex-col gap-2">
         <h4 class="text-xl font-bold">${speaker.name}</h4>
@@ -78,3 +78,30 @@ speakers.speakerData.forEach((speaker) => {
 speakerDiv += '</div></div>';
 
 document.querySelector('#speaker-section').innerHTML = speakerDiv;
+
+const more = document.querySelector('#more');
+const close = document.querySelector('#close');
+const spClass3 = document.querySelector('.speaker:nth-child(3)');
+const spClass4 = document.querySelector('.speaker:nth-child(4)');
+const spClass5 = document.querySelector('.speaker:nth-child(5)');
+const spClass6 = document.querySelector('.speaker:nth-child(6)');
+
+more.addEventListener('click', () => {
+  spClass3.style.display = 'flex';
+  spClass4.style.display = 'flex';
+  spClass5.style.display = 'flex';
+  spClass6.style.display = 'flex';
+
+  more.style.display = 'none';
+  close.style.display = 'flex';
+});
+
+close.addEventListener('click', () => {
+  spClass3.style.display = 'none';
+  spClass4.style.display = 'none';
+  spClass5.style.display = 'none';
+  spClass6.style.display = 'none';
+
+  more.style.display = 'flex';
+  close.style.display = 'none';
+});
