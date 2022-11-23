@@ -50,7 +50,7 @@
 
 > Here is a link to deployed project.
 
-- [Live Demo Link](https://ohyajk.github.io/capstone-1)
+- [Live Demo Link](https://ohyajk.github.io/Capstone-1/)
 
 > Here is a link to loom video.
 
