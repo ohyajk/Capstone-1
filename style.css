@@ -41,7 +41,7 @@ body {
 }
 
 .mp-underline {
-  border-bottom: 4px solid #f28f10;
+  border-bottom: 4px solid #ee5242;
   padding-bottom: 8px;
   width: 150px;
 }
@@ -54,7 +54,7 @@ body {
 
 .img-before::before {
   content: '';
-  background-color: #f28f10;
+  background-color: #ee5242;
   width: 30%;
   height: 30%;
   position: absolute;
@@ -80,4 +80,28 @@ body {
 .audi2 {
   background-image: url('./Assets/audi2.jpg');
   background-size: cover;
+}
+
+@media only screen and (min-width: 768px) {
+  #more {
+    display: none !important;
+  }
+
+  #close {
+    display: none !important;
+  }
+
+  .speaker:nth-child(n+3):nth-child(-n+6) {
+    display: flex !important;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .speaker:nth-child(n+3):nth-child(-n+6) {
+    display: none;
+  }
+
+  #close {
+    display: none;
+  }
 }
