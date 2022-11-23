@@ -41,36 +41,6 @@
 
 ## 🛠 Built With <a name="built-with">HTML, CSS, Tailwind & Javascript</a>
 
-### Tech Stack <a name="tech-stack"></a>
-
-<details>
-  <summary>HTML</summary>
-  <ul>
-    <li><a href="#">HTML</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>CSS</summary>
-  <ul>
-    <li><a href="#">CSS</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Tailwind</summary>
-  <ul>
-    <li><a href="#">Tailwind</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Javascript</summary>
-  <ul>
-    <li><a href="#">Javascript</a></li>
-  </ul>
-</details>
-
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
@@ -128,6 +98,16 @@ To run project, run the following command:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank cindy shin the author of template design.
+
+Behance: [Cindy Shin](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
@@ -141,20 +121,6 @@ Contributions, issues, and feature requests are welcome!
 ## ⭐️ Show your support <a name="support"></a>
 
 If you like this project please give a star...
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGEMENTS -->
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-I would like to thank...
-
-- Google
-- Stackoverflow
-- Friends
-- Tailwind
-- Microverse
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
