@@ -1,48 +1,167 @@
-# 👑 CAPSTONE 1
+<a name="readme-top"></a>
 
-First capstone project by Jitender Kumar.
+<div align="center">
 
-## 🗨️ Description
+  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
 
-This is the first capstone project of the microverse course in which I made a conference website with HTML, CSS and JavaScript.
+  <h3><b>Microverse README Template</b></h3>
+
+</div>
+
+<!-- TABLE OF CONTENTS -->
+
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ](#faq)
+- [📝 License](#license)
+
+<!-- PROJECT DESCRIPTION -->
+
+# 📖 Capstone 1 <a name="about-project"></a>
+
+> This is the first capstone project in microverse course.
+
+## 🛠 Built With <a name="built-with">HTML, CSS, Tailwind & Javascript</a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+<details>
+  <summary>HTML</summary>
+  <ul>
+    <li><a href="#">HTML</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>CSS</summary>
+  <ul>
+    <li><a href="#">CSS</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Tailwind</summary>
+  <ul>
+    <li><a href="#">Tailwind</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>Javascript</summary>
+  <ul>
+    <li><a href="#">Javascript</a></li>
+  </ul>
+</details>
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+- Responsive 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> Here is a link to deployed project.
+
+- [Live Demo Link](https://ohyajk.github.io/capstone-1)
+
+> Here is a link to loom video.
+
+- [Live Demo Link](https://ohyajk.github.io/capstone-1)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+> Describe how a new developer could make use of your project.
+
+To get a local copy up and running, follow these steps.
+
+### Clone
+
+Clone this repository to your desired folder:
+
+  git clone https://github.com/ohyajk/Capstone-1
 
 
-## 🔗 Live Preview
+### Run 
 
-- https://ohyajk.github.io/Capstone-1/
+To run project, run the following command:
 
+  Open in desired editor.
 
-## 🛠️ Built With
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-- HTML, CSS & JavaScript with ❤️ 
+<!-- AUTHORS -->
 
+## 👥 Authors <a name="authors"></a>
 
-## 🔑 Getting Started
+> Mention all of the collaborators of this project.
 
-Follow the steps below to get started -
+👤 Jitender Kumar
 
-1. clone my repository https://github.com/ohyajk/Capstone-1
-2. Open files in your favourite IDE or Code Editor.
+- GitHub: [@ohyajk](https://github.com/ohyajk)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 👦 Author
+<!-- CONTRIBUTING -->
 
-👤 Jitender Kumar (JK)
+## 🤝 Contributing <a name="contributing"></a>
 
-- **GitHub**: [@ohyajk](https://github.com/ohyajk)
+Contributions, issues, and feature requests are welcome!
 
-## 🤝 Contributing
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Contributions and feature requests are welcome!
+<!-- SUPPORT -->
 
-## 💌 Acknowledgements
+## ⭐️ Show your support <a name="support"></a>
 
-- StackOverflow
-- Youtube
+If you like this project please give a star...
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank...
+
 - Google
-- Microverse Community
-- Family & Homies
+- Stackoverflow
+- Friends
+- Tailwind
+- Microverse
 
-## 🤝 Show your support
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Give a ⭐️ if you like this project!
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./mit.md) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
