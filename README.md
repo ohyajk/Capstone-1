@@ -54,7 +54,7 @@
 
 > Here is a link to loom video.
 
-- [Live Demo Link](https://ohyajk.github.io/capstone-1)
+- [Loom Video Link](https://www.loom.com/share/363627929d594495b05220ad56f88100)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
